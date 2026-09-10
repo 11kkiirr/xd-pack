@@ -1,0 +1,152 @@
+{
+  "name": "PackPulse Pack",
+  "version": "2026.09.10-194758",
+  "minecraftVersion": "1.21.1",
+  "loader": "neoforge-21.1.248-installer.jar.log",
+  "neoForgeVersion": "21.1.228",
+  "versionId": "packpulse-pack",
+  "profileName": "PackPulse Pack",
+  "files": [
+    {
+      "path": "config/openloader/packs/xd-pack/README.txt",
+      "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/config/openloader/packs/xd-pack/README.txt",
+      "sha256": "0b7dbccda7de06f7267a0f0fed832494f498f6028c70e6388e307188e47285ff"
+    },
+    {
+      "path": "config/openloader/packs/xd-pack/assets/minecraft/font/default.json",
+      "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/config/openloader/packs/xd-pack/assets/minecraft/font/default.json",
+      "sha256": "ef105db7677cad9538485b17bd7e2292c94be82de58d35f12d92b518d77f2844"
+    },
+    {
+      "path": "config/openloader/packs/xd-pack/assets/minecraft/textures/font/xd_lofo.png",
+      "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/config/openloader/packs/xd-pack/assets/minecraft/textures/font/xd_lofo.png",
+      "sha256": "9213dad47deccde31fd925365229c6543772d4b97dbba4ab51d72977952d2846"
+    },
+    {
+      "path": "config/openloader/packs/xd-pack/pack.mcmeta",
+      "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/config/openloader/packs/xd-pack/pack.mcmeta",
+      "sha256": "15a6453579747264b825f4f75406dd05796949c6bbcc8ba39e21ba85b55ea8a7"
+    },
+    {
+      "path": "kubejs/README.txt",
+      "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/kubejs/README.txt",
+      "sha256": "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/example_block.png",
+      "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/kubejs/assets/kubejs/textures/block/example_block.png",
+      "sha256": "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/example_item.png",
+      "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/kubejs/assets/kubejs/textures/item/example_item.png",
+      "sha256": "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+    },
+    {
+      "path": "kubejs/client_scripts/era_restrictions.js",
+      "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/kubejs/client_scripts/era_restrictions.js",
+      "sha256": "01d1f49aa0cc0f48d9bc3d1cf5760bc8b29d63372a473c72f00cbc3831857b00"
+    },
+    {
+      "path": "kubejs/client_scripts/era_sync.js",
+      "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/kubejs/client_scripts/era_sync.js",
+      "sha256": "27be20b38aaf66dd3592daa5a2935850a394d9f90db7d18c643f6e59955c9917"
+    },
+    {
+      "path": "kubejs/client_scripts/era_tooltips.js",
+      "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/kubejs/client_scripts/era_tooltips.js",
+      "sha256": "6f78b2400929c2ed940fc903b9f61f0bf003aefbf50f2775882e59a9a3dd98d4"
+    },
+    {
+      "path": "kubejs/client_scripts/jsconfig.json",
+      "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/kubejs/client_scripts/jsconfig.json",
+      "sha256": "074d0711e4acb8ad4f0421127c8df1e8eb73c060bf0417bb159fc05239dbdcb8"
+    },
+    {
+      "path": "kubejs/client_scripts/main.js",
+      "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/kubejs/client_scripts/main.js",
+      "sha256": "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
+    },
+    {
+      "path": "kubejs/config/client.json",
+      "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/kubejs/config/client.json",
+      "sha256": "0aeb4cb329b896e33a0777a1683b0b813a6f2f0adc5bc2cf3e6d10e18e442fef"
+    },
+    {
+      "path": "kubejs/config/common.json",
+      "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/kubejs/config/common.json",
+      "sha256": "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+    },
+    {
+      "path": "kubejs/config/era_system.json",
+      "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/kubejs/config/era_system.json",
+      "sha256": "c46cd00cd9086b8c8bd1e8e954ac3f52f3f3179e9ad068635b893e10b91db20b"
+    },
+    {
+      "path": "kubejs/config/probe-settings.json",
+      "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/kubejs/config/probe-settings.json",
+      "sha256": "a27589e3dc2de58a0b5d36441f7c27bd288ad4ba990d14b3be6eb9706f86f18b"
+    },
+    {
+      "path": "kubejs/config/web_server.json",
+      "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/kubejs/config/web_server.json",
+      "sha256": "9f7b2c5efea74caacaa7a7109e3cfa772d4815c2db6c9e9701c45ad6b130520c"
+    },
+    {
+      "path": "kubejs/package.json",
+      "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/kubejs/package.json",
+      "sha256": "3d04369a44dc75f6a70dfc51080beb357eb39b395a2db0b6557ce8b9900ceec4"
+    },
+    {
+      "path": "kubejs/server_scripts/dev_tag_exporter.js",
+      "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/kubejs/server_scripts/dev_tag_exporter.js",
+      "sha256": "6cf5050b9f105b696928d4303da35593446e9d373c3e0cdc11abaf44b922c7b7"
+    },
+    {
+      "path": "kubejs/server_scripts/era_restrictions.js",
+      "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/kubejs/server_scripts/era_restrictions.js",
+      "sha256": "3f81f3132357ee4ec93866896f89bc99d4f555cb36254d176cb28c53ff2ff32c"
+    },
+    {
+      "path": "kubejs/server_scripts/eras_system.js",
+      "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/kubejs/server_scripts/eras_system.js",
+      "sha256": "454ec577881e9e5d005772d30d2dbe2f85a2fcf9e12ed032cb68fb95fc8c5911"
+    },
+    {
+      "path": "kubejs/server_scripts/jsconfig.json",
+      "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/kubejs/server_scripts/jsconfig.json",
+      "sha256": "42c92ad557857b1c4a99cf2ef009e6e65ef00615df0f9513b71312817e938f6f"
+    },
+    {
+      "path": "kubejs/server_scripts/main.js",
+      "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/kubejs/server_scripts/main.js",
+      "sha256": "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
+    },
+    {
+      "path": "kubejs/server_scripts/tags.js",
+      "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/kubejs/server_scripts/tags.js",
+      "sha256": "aa6e2d76c057fdb46ddc19e7605791bcfafe75027a6fcf009f1b6904e1c30840"
+    },
+    {
+      "path": "kubejs/server_scripts/zz_era_recipe_restrictions.js",
+      "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/kubejs/server_scripts/zz_era_recipe_restrictions.js",
+      "sha256": "a09616812cf99d44e7e6bf466ddd6a8117d05d4506964b252c37e521950f3898"
+    },
+    {
+      "path": "kubejs/startup_scripts/global_init.js",
+      "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/kubejs/startup_scripts/global_init.js",
+      "sha256": "8e6bd90d8404d436d30c67bf9ffa4e0677aa1469f100104f305aafc48922a5fe"
+    },
+    {
+      "path": "kubejs/startup_scripts/jsconfig.json",
+      "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/kubejs/startup_scripts/jsconfig.json",
+      "sha256": "9a75b8dd95ef5b2dd64998a78ef9c621b0d8e5578c9fd3e3bc268b1853258ca9"
+    },
+    {
+      "path": "kubejs/startup_scripts/main.js",
+      "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/kubejs/startup_scripts/main.js",
+      "sha256": "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
+    }
+  ],
+  "delete": []
+}

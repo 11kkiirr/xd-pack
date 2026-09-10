@@ -1,0 +1,32 @@
+{
+  "knownPaths": [
+    "config/openloader/packs/xd-pack/README.txt",
+    "config/openloader/packs/xd-pack/assets/minecraft/font/default.json",
+    "config/openloader/packs/xd-pack/assets/minecraft/textures/font/xd_lofo.png",
+    "config/openloader/packs/xd-pack/pack.mcmeta",
+    "kubejs/README.txt",
+    "kubejs/assets/kubejs/textures/block/example_block.png",
+    "kubejs/assets/kubejs/textures/item/example_item.png",
+    "kubejs/client_scripts/era_restrictions.js",
+    "kubejs/client_scripts/era_sync.js",
+    "kubejs/client_scripts/era_tooltips.js",
+    "kubejs/client_scripts/jsconfig.json",
+    "kubejs/client_scripts/main.js",
+    "kubejs/config/client.json",
+    "kubejs/config/common.json",
+    "kubejs/config/era_system.json",
+    "kubejs/config/probe-settings.json",
+    "kubejs/config/web_server.json",
+    "kubejs/package.json",
+    "kubejs/server_scripts/dev_tag_exporter.js",
+    "kubejs/server_scripts/era_restrictions.js",
+    "kubejs/server_scripts/eras_system.js",
+    "kubejs/server_scripts/jsconfig.json",
+    "kubejs/server_scripts/main.js",
+    "kubejs/server_scripts/tags.js",
+    "kubejs/server_scripts/zz_era_recipe_restrictions.js",
+    "kubejs/startup_scripts/global_init.js",
+    "kubejs/startup_scripts/jsconfig.json",
+    "kubejs/startup_scripts/main.js"
+  ]
+}

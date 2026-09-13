@@ -1,6 +1,6 @@
 {
   "name": "PackPulse Pack",
-  "version": "2026.09.10-194758",
+  "version": "2026.09.13-142511",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge-21.1.248-installer.jar.log",
   "neoForgeVersion": "21.1.228",
@@ -123,11 +123,6 @@
       "sha256": "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
     },
     {
-      "path": "kubejs/server_scripts/tags.js",
-      "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/kubejs/server_scripts/tags.js",
-      "sha256": "aa6e2d76c057fdb46ddc19e7605791bcfafe75027a6fcf009f1b6904e1c30840"
-    },
-    {
       "path": "kubejs/server_scripts/zz_era_recipe_restrictions.js",
       "url": "https://raw.githubusercontent.com/11kkiirr/xd-pack/main/kubejs/server_scripts/zz_era_recipe_restrictions.js",
       "sha256": "a09616812cf99d44e7e6bf466ddd6a8117d05d4506964b252c37e521950f3898"
@@ -148,5 +143,7 @@
       "sha256": "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
     }
   ],
-  "delete": []
+  "delete": [
+    "kubejs/server_scripts/tags.js"
+  ]
 }
